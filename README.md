@@ -13,5 +13,5 @@ Control de acceso para demostrar las capacidades de un Arduino y sus distintos m
 * Lector RFID RC522
 
 ## Circuito
-[Circuito de Control de Acesso con Arudino](https://user-images.githubusercontent.com/16374322/42404266-ab625766-8155-11e8-9dd8-ad07b346985b.png)
+![Circuito de Control de Acesso con Arudino](https://user-images.githubusercontent.com/16374322/42404266-ab625766-8155-11e8-9dd8-ad07b346985b.png)
 

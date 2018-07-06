@@ -4,7 +4,7 @@ Control de acceso para demostrar las capacidades de un Arduino y sus distintos m
 ## Funciones
 * Permitir o denegar el acceso al leer una TNE (Tarjeta Nacional Estudiantil)
 * Permitir o denegar el acceso según una contraseña numérica
-* Permitr leer el saldo te la tarjeta Bip o TNE
+* Permitir leer el saldo te la tarjeta Bip o TNE
 
 ## Componentes
 * Arduino UNO R3
@@ -13,4 +13,5 @@ Control de acceso para demostrar las capacidades de un Arduino y sus distintos m
 * Lector RFID RC522
 
 ## Circuito
-Pronto se subirá el circuito del proyecto
+[Circuito de Control de Acesso con Arudino](https://user-images.githubusercontent.com/16374322/42404266-ab625766-8155-11e8-9dd8-ad07b346985b.png)
+
